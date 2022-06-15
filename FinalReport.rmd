@@ -66,3 +66,4 @@ Because the p-value is 0.000006596 which is less than 0.05 we reject the null hy
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+the original question was if the drug is effective on preventing aids in females. we concluded that the drug was ineffective and gave females a higher chance of contracting the virus. 
