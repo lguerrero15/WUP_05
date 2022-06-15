@@ -44,6 +44,13 @@ The drug appears to make women more suseptible to the virus.
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+table1 <- xtabs(~infected + treatment, data=Females)
+rowPerc(table1)
+colPerc(table1)
+```
+
+the table shows that if a female were to get the vaccine, she would be 1.4x more likely to contract the virus in comparison to the placebo group.  
 
 ## Inferential Results
 
